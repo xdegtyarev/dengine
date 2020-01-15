@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"xdegtyarev"
+	],
+	"copyright": "Copyright © 2020, xdegtyarev",
+	"description": "D Vulkan Game Engine",
+	"license": "proprietary",
+	"name": "dengine"
+}

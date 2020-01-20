@@ -3,6 +3,9 @@
 		"xdegtyarev"
 	],
 	"copyright": "Copyright © 2020, xdegtyarev",
+	"dependencies": {
+		"bindbc-glfw": "~>0.8.1"
+	},
 	"description": "D Vulkan Game Engine",
 	"license": "proprietary",
 	"name": "dengine"
